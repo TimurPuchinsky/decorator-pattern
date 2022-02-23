@@ -8,5 +8,6 @@ namespace Programm
 {
     public class Class1
     {
+
     }
 }
