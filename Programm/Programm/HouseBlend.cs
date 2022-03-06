@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Programm
 {
-    public class Class1
+    public class HouseBlend : Beverage
     {
-        //123
     }
 }
